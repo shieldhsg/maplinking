@@ -1,4 +1,5 @@
 {
     "go.gopath": "/Users/frank/go/src/maplinking/vendor",
     "go.inferGopath": false,
+    "git.ignoreLimitWarning": true,
 }
